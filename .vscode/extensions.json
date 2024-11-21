@@ -2,6 +2,7 @@
   "recommendations": [
     "mushan.vscode-paste-image",
     "yzhang.markdown-all-in-one",
-    "bierner.markdown-mermaid"
+    "bierner.markdown-mermaid",
+    "yzane.markdown-pdf"
   ]
 }
