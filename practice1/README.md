@@ -78,7 +78,7 @@ RVでは、自身の書いた疑似言語を口頭で説明する。
 ```
 [プログラム]
   〇整数型:subProgram(整数型:n)
-    if ( n < 1>)
+    if (n < 1)
       return n
     else
       return subProgram(n-1)
@@ -102,3 +102,5 @@ RVでは、自身の書いた疑似言語を口頭で説明する。
 
 
 <div style="page-break-before:always"></div>
+
+
