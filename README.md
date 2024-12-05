@@ -59,6 +59,6 @@ flowchart TD
 2. Chap.5 の練習問題
     1.  `1. Chap.4 の練習問題`と同様に進めること。スキップも可。
     2.  理解が不足、わからない場合は教材右上の**関連ページ**を参照すること。
-3.  [追加課題](practice1/README.pdf)の実施
-4.  [追加課題](practice2/README.pdf)の実施
+3.  [追加課題１](practice1/README.pdf)の実施
+4.  [追加課題２](practice2/README.pdf)の実施
 
