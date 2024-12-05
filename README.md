@@ -40,9 +40,15 @@
 1. Chap.4 の練習問題
 
 ```mermaid
+---
+config:
+  layout: elk
+  look: handDrawn
+---
+
 flowchart TD
     A[Chap.4の練習問題を解けるか確認] --> B{解けるか？}
-    B -->|Yes| C[あまりにも簡単か]
+    B -->|Yes| C{あまりにも簡単か}
     C -->|No| H[Chap.4をスキップ]
     C -->|No| G[Chap.4を解き進める]
     B -->|No| D{対応するChapterを読みながら進めそうか？}
