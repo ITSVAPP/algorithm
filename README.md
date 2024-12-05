@@ -55,27 +55,3 @@ flowchart TD
     2.  理解が不足、わからない場合は教材右上の**関連ページ**を参照すること。
 3.  [追加課題](practice1/README.pdf)の実施
 4.  さらなる追加課題の実施（相談すること）
-
-
-```mermaid
----
-config:
-  look: handDrawn
-  theme: neutral
----
-flowchart LR
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Continue]
-  B -->|No| D[Stop]
-```
-
----
-config:
-  layout: elk
-  look: handDrawn
-  theme: dark
----
-flowchart TB
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Continue]
-  B -->|No| D[Stop]
