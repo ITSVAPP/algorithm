@@ -1,8 +1,10 @@
 # 開発者用
 
+GitHubとGitBookを利用して公開している。
+GitHubにpushすれば自動でGitBookにも公開される。
+
 ## 前提条件
-- git
-- nvm
+- gitをインストールしてあること
 
 ## gitからのクローン
 ```bash
@@ -11,14 +13,6 @@ git clone https://github.com/ITSVAPP/algorithm.git
 
 ## 推奨拡張機能の追加
 `@recommended`で検索し、該当拡張機能をインストールする
-
-## Nodejsのバージョン指定
-特定のバージョンじゃないと動かない
-
-```bash
-nvm install 14.21.3
-nvm use 14.21.3
-```
 
 ### 作成のチップス
 
