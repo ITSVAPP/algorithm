@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-ja",
+    "yzhang.markdown-all-in-one",
+    "yzane.markdown-pdf",
+    "bierner.markdown-mermaid",
+    "mushan.vscode-paste-image",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-xml"
+  ]
+}
