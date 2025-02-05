@@ -37,7 +37,7 @@
 <div style="page-break-before:always"></div>
 
 
-### 問題30 階乗計算
+## 問題30 階乗計算
 整数型`n`を引数として受け取り、`n`の階乗を返す関数`factorial`を疑似言語で作成せよ。
 
 ```
