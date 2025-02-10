@@ -25,3 +25,12 @@ git clone https://github.com/ITSVAPP/algorithm.git
   - ショートカットキー「Ctrl+Alt+V」で貼り付け可
 - 拡張機能「Markdown All in One」を使うと、Markdown の記法を便利に使える
   - [使い方](https://zenn.dev/ctrlkeykoyubi/articles/vscode-markdown-all-in-one)を参照すること
+
+
+### `gitbook-cli`のインストール
+
+### node.jsのバージョン指定
+`nvm use 12.22.12`
+
+#### インストール
+`npm install --global gitbook-cli`
