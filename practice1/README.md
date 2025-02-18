@@ -51,15 +51,15 @@ RVでは、自身の書いた疑似言語を口頭で説明する。
 <div style="page-break-before:always"></div>
 
 
-## 問題30 FizzBuzz
+## 問題35 FizzBuzz
 
 1から1000までの数を以下のルールに従って文字列を出力するプログラムを作成せよ。
 
 ルール:
-- 数が3の倍数であれば"Fizz"を出力する。
-- 数が5の倍数であれば"Buzz"を出力する。
-- 数が3と5両方の倍数であれば"FizzBuzz"を出力する。
-- それ以外の数の場合、数値をそのまま出力する。
+- 数が3の倍数であれば"Fizz"
+- 数が5の倍数であれば"Buzz"
+- 数が3と5両方の倍数であれば"FizzBuzz"
+- それ以外の数の場合、数値をそのまま
 
 出力例：`1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 …… `
 
@@ -102,5 +102,3 @@ RVでは、自身の書いた疑似言語を口頭で説明する。
 
 
 <div style="page-break-before:always"></div>
-
-
